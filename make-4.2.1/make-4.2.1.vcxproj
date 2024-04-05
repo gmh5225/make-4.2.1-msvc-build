@@ -64,7 +64,7 @@
       <DisableSpecificWarnings>4996</DisableSpecificWarnings>
     </ClCompile>
     <Link>
-      <OutputFile>$(OutDir)make-4.2.1.exe</OutputFile>
+      <OutputFile>$(OutDir)make.exe</OutputFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>$(OutDir)make_msvc.net2003.pdb</ProgramDatabaseFile>
       <SubSystem>Console</SubSystem>
@@ -87,7 +87,7 @@
       <DisableSpecificWarnings>4996</DisableSpecificWarnings>
     </ClCompile>
     <Link>
-      <OutputFile>$(OutDir)make-4.2.1.exe</OutputFile>
+      <OutputFile>$(OutDir)make.exe</OutputFile>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
       <OptimizeReferences>true</OptimizeReferences>
